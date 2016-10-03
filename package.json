@@ -5,9 +5,11 @@
   "devDependencies": {
     "react-scripts": "0.6.1"
   },
+  "proxy": "http://localhost:8080",
   "dependencies": {
     "ag-grid": "6.0.x",
     "ag-grid-react": "6.0.x",
+    "http-proxy": "^1.15.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
   },
