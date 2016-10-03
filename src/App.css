@@ -1692,3 +1692,8 @@ a {
     color: #27AAE1 !important;
     text-decoration: underline !important;
 }
+
+.ag-fresh .ag-header {
+  background: #F5F5F5;
+  text-align: left;
+}

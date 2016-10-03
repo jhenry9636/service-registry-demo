@@ -63,8 +63,7 @@ class App extends Component {
           enableSorting={this.state.enableSorting}
           enableFilter={this.state.enableFilter}
           style={{width: "200px"}}
-          rowHeight={this.state.rowHeight} 
-          />
+          rowHeight={this.state.rowHeight} />
       </div>
     )
   }
